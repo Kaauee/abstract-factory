@@ -1,0 +1,15 @@
+Fabricas\ProdutorDeFabricas.class
+Formas\Forma.class
+CorFormas\QuadradoAzul.class
+Fabricas\RedShapeFactory.class
+CorFormas\QuadradoVermelho.class
+Formas\Retangulo.class
+CorFormas\CirculoVermelho.class
+Formas\Quadrado.class
+CorFormas\RetanguloVermelho.class
+CorFormas\RetanguloAzul.class
+CorFormas\CirculoAzul.class
+Fabricas\BlueShapeFactory.class
+Principal.class
+Formas\Circulo.class
+Fabricas\AbstractFactory.class
